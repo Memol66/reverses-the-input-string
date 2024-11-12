@@ -1,4 +1,4 @@
-# 0.000000000000000
+# 0000000000
 def reverse_string(input_string):
     return input_string[::-1]
 
